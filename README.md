@@ -1,5 +1,5 @@
 
-# ✈️ LexKomendirAirCraft — KOM-AK-X1-ALPHA
+# ✈️ LexKomendirAirCraft — AK-X1-ALPHA
 ### Conceito · Pesquisa · Desenvolvimento
 #### 🇧🇷 Brasil
 
