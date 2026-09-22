@@ -7,6 +7,15 @@ OCULUS EXERCITUS · FIDES ET HONOR · MUITO ALTO, MUITO LONGE, SEMPRE
 https://luftfahrzeuginstandhaltung.github.io/LexKomendirAirCraft-/
 
 ### 📁 Estrutura
+# LexKomendirAirCraft — KOM-AK-X1-ALPHA
+**ATA 100 · RBAC 65 · NACA 2412 · Mach 0.72 · Brasil 2026**
+
+OCULUS EXERCITUS · FIDES ET HONOR · MUITO ALTO, MUITO LONGE, SEMPRE
+
+### 🚀 Site Oficial (GitHub Pages)
+https://luftfahrzeuginstandhaltung.github.io/LexKomendirAirCraft-/
+
+### 📁 Estrutura
 # ==============================================================
 #  LEXKOMENDIRAIRCRAFT · KOM-AK-X1-ALPHA
 #  CÓDIGO ÚNICO COMPLETO — 34 Diagramas + HTML
