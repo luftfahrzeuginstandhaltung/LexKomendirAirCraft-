@@ -4,7 +4,8 @@
 OCULUS EXERCITUS · FIDES ET HONOR · MUITO ALTO, MUITO LONGE, SEMPRE
 
 ### 🚀 Site Oficial (GitHub Pages)
-https://luftfahrzeuginstandhaltung.github.io/LexKomendirAirCraft-/
+https://LexKomendirAirCraft/luftfahrzeuginstandhaltung.github.io/-/
+
 
 ### 📁 Estrutura
 # LexKomendirAirCraft — KOM-AK-X1-ALPHA
